@@ -1,7 +1,7 @@
 ### Oii, eu sou a Milene Valadão! 👋
 
 
-- 📚 Estudando HTML, JavaScript e CSS.
+- 📚 Estudante de HTML, JavaScript, CSS, PHP, Redes e Banco de dados.
 - 😍 Apaixonada por aprender coisas novas.
 - ➕ Olímpica em Matemática e Física em 2020 e 2021.
 
