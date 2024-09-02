@@ -1,9 +1,9 @@
 ### Oii, eu sou a Milene Valadão! 👋
 
-
-- 📚 Estudante de HTML, JavaScript, CSS, PHP, Redes e Banco de dados.
+- 💻 Desenvolvedora Web na Hostnet 
+- 📚 Técnica em Informática para Internet pela Escola Técnica Estadual do Rio de Janeiro.
 - 😍 Apaixonada por aprender coisas novas.
-- ➕ Olímpica em Matemática e Física em 2020 e 2021.
+- 👩‍💻 Atualmente, me aprimorando em Next.js e React.js.
 
 <a href="https://github.com/milenevb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milenevb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
