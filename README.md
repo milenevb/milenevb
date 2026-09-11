@@ -7,7 +7,7 @@
 </a>
 
 - 🔬 Iniciação Científica na **AISE**
-- 💼 Ex-Desenvolvedora Web, hoje redirecionando a carreira para o universo de IA
+- 💼 Desenvolvedora Web, hoje redirecionando a carreira para o universo de IA
 - 😍 Apaixonada por aprender coisas novas.
 - 📍 Rio de Janeiro - Brasil
 
