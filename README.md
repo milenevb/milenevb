@@ -13,10 +13,10 @@
 
 <br clear="right"/>
 
-### Main skills
+### Principais Habilidades
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,html,css,php,git,github)](https://skillicons.dev)
 
-### Connect with me!
+### Contatos
 <div>
     <a href="mailto:contato.milenevb@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
