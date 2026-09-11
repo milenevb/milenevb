@@ -1,54 +1,27 @@
-<h1 align="center">Oi, eu sou a Milene! 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:160029,25:773344,50:D4405C,75:E3B5A4,100:F5E9E2&height=120&section=header&text=Milene%20Valad%C3%A3o&fontColor=ffffff&fontSize=35&fontFamily=Playfair+Display" alt="header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Estudante+de+IA+na+PUC-Rio;Python+%7C+IA+%7C+Automa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
-</p>
+<img align="right" width="220" src="https://github.com/user-attachments/assets/f9a2a188-5bb7-42cb-b71e-2706e16b30f6" alt="octocat"/>
 
-- 🎓 Estudante de **Inteligência Artificial** na **PUC-Rio**
-- 🤖 Explorando **Python, IA e automação** no dia a dia dos estudos
-- 🚀 Construindo projetos acadêmicos e pessoais aplicando Inteligência Artificial
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=4500&pause=500&color=773344&width=435&lines=Oiiie%2C+eu+sou+a+Milene!+:);Estudante+de+IA+na+PUC-Rio" alt="Estudante de IA na PUC-Rio"/>
+</a>
+
 - 🔬 Iniciação Científica na **AISE**
 - 💼 Ex-Desenvolvedora Web, hoje redirecionando a carreira para o universo de IA
 - 😍 Apaixonada por aprender coisas novas.
 - 📍 Rio de Janeiro - Brasil
 
-<br>
+<br clear="right"/>
 
-### 🛠️ Stack & Ferramentas
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,html,css,php,git,github)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-<br>
-
-### 💼 Experiência
-
-- Atuei como **Desenvolvedora Web na Hostnet**, com formação Técnica em Informática para Internet pela **FAETEC**
-- Hoje aplico essa base em desenvolvimento para estudar e construir soluções de **Inteligência Artificial**
-
-<br>
-
-### 📌 Projetos em destaque
-
-- **ÍRIS** — aplicativo de segurança pessoal para mulheres, disfarçado de app de bem-estar/meditação. Landing page em HTML/CSS de alta conversão + protótipo mobile em React/Vite, seguindo um design system próprio.
-
-<br>
-
-### 📫 Contato
-
-<p align="left">
-  <a href="mailto:contato.milenevb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/milene-valadao">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### Connect with me!
+<div>
+    <a href="mailto:contato.milenevb@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
+    </a>
+    <a href="https://www.linkedin.com/in/milene-valadao">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
+    </a>
+</div>
